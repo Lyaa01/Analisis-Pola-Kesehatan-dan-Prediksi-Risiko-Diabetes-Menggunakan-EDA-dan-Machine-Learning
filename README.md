@@ -1,8 +1,15 @@
 # Analisis-Pola-Kesehatan-dan-Prediksi-Risiko-Diabetes-Menggunakan-EDA-dan-Machine-Learning
 Proyek ini bertujuan untuk menganalisis dan memprediksi risiko diabetes berdasarkan data medis pasien menggunakan metode *data science*. Dengan memanfaatkan teknik *exploratory data analysis (EDA)* dan model prediktif **XGBoost**, proyek ini memberikan pendekatan sistematis dalam mendeteksi dini kemungkinan diabetes, khususnya sebagai alat bantu skrining awal di lingkungan klinis atau rumah sakit.
 
----
+## 👥 Anggota Kelompok
 
+Ini adalah proyek yang disusun oleh beberapa anggota kelompok untuk menerapkan konsep data science dalam menganalisis dan memodelkan risiko diabetes berdasarkan dataset medis. Proyek ini dikerjakan secara berkelompok sebagai bagian dari tugas mata kuliah / program pembelajaran data science. Anggota kelompok:
+
+- Huwaida Adilya Putri
+- Azzahra Dania Indriyani
+- Dellia Putri Santoso
+- Nisrina Syifa
+  
 ## 🔍 Metodologi: CRISP-DM
 
 Proyek ini menggunakan pendekatan **CRISP-DM** (*Cross Industry Standard Process for Data Mining*), yang terdiri dari:
