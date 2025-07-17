@@ -59,8 +59,7 @@ Hasil evaluasi menunjukkan bahwa XGBoost dapat memprediksi risiko diabetes denga
 Dataset:
 📌 **Pima Indians Diabetes Dataset**  
 Sumber:  
-- [Kaggle](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)  
-- [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/diabetes)
+- [Kaggle](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 
 ---
 
